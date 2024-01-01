@@ -21,6 +21,7 @@
 - [Display Configuration](#display-configuration)
   - [Sway Specific](#sway-specific)
 - [Wallpaper](#wallpaper)
+- [Status Bar](#status-bar)
 
 ## Compositor
 
@@ -69,3 +70,7 @@
 ## Wallpaper
 
 - [wallutils](https://github.com/xyproto/wallutils) - Utilities for setting different types of wallpapers.
+
+## Status Bar
+
+- [ironbar](https://github.com/JakeStanger/ironbar) - GTK bar for wlroots compositors.

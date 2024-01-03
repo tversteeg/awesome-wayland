@@ -74,3 +74,4 @@
 ## Status Bar
 
 - [ironbar](https://github.com/JakeStanger/ironbar) - GTK bar for wlroots compositors.
+- [rootbar](https://hg.sr.ht/~scoopta/rootbar) - Bar for wlroots compositors.

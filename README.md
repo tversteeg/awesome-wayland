@@ -73,5 +73,6 @@
 
 ## Status Bar
 
+- [waybar](https://github.com/Alexays/Waybar) - Highly customizable bar for wlroots compositors.
 - [ironbar](https://github.com/JakeStanger/ironbar) - GTK bar for wlroots compositors.
 - [rootbar](https://hg.sr.ht/~scoopta/rootbar) - Bar for wlroots compositors.

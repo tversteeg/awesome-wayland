@@ -22,6 +22,7 @@
   - [Sway Specific](#sway-specific)
 - [Wallpaper](#wallpaper)
 - [Status Bar](#status-bar)
+- [Launcher](#launcher)
 
 ## Compositor
 
@@ -77,3 +78,7 @@
 - [ironbar](https://github.com/JakeStanger/ironbar) - GTK bar for wlroots compositors.
 - [rootbar](https://hg.sr.ht/~scoopta/rootbar) - Bar for wlroots compositors.
 - [yambar](https://codeberg.org/dnkl/yambar) - Lightweight and configurable status panel.
+
+## Launcher
+
+- [kickoff](https://github.com/j0ru/kickoff) - Minimalistic program launcher.

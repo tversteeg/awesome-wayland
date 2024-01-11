@@ -39,6 +39,7 @@
 - [velox](https://github.com/michaelforney/velox) - Simple window manager.
 - [Vivarium](https://github.com/inclement/vivarium) - Dynamic tiling compositor with desktop semantics inspired by xmonad.
 - [Qtile](https://qtile.org) - Full-featured hackable window manager.
+- [pinnacle](https://github.com/pinnacle-comp/pinnacle) - An AwesomeWM compositor clone.
 
 ### Stacking
 

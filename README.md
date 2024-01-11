@@ -64,6 +64,7 @@
 - [wayout](https://git.sr.ht/~shinyzenith/wayout) - Simple tool to manage output modes.
 - [wdisplays](https://github.com/artizirk/wdisplays) - Graphical application for configuring displays.
 - [wlr-randr](https://sr.ht/~emersion/wlr-randr/) - Utility to manage outputs of a compositor.
+- [cosmic-randr](https://github.com/pop-os/cosmic-randr) - CLI utility for displaying and configuring outputs.
 
 ### Sway Specific
 

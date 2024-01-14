@@ -84,3 +84,4 @@
 ## Launcher
 
 - [kickoff](https://github.com/j0ru/kickoff) - Minimalistic program launcher.
+- [bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu client inspired by dmenu.

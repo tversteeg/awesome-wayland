@@ -23,6 +23,7 @@
 - [Wallpaper](#wallpaper)
 - [Status Bar](#status-bar)
 - [Launcher](#launcher)
+- [Session](#session)
 
 ## Compositor
 
@@ -86,3 +87,7 @@
 - [kickoff](https://github.com/j0ru/kickoff) - Minimalistic program launcher.
 - [bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu client inspired by dmenu.
 - [Sirula](https://github.com/DorianRudolph/sirula) - Simple app launcher.
+
+## Session
+
+- [wlogout](https://github.com/ArtsyMacaw/wlogout) - Logout menu.

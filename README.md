@@ -41,6 +41,7 @@
 - [Vivarium](https://github.com/inclement/vivarium) - Dynamic tiling compositor with desktop semantics inspired by xmonad.
 - [Qtile](https://qtile.org) - Full-featured hackable window manager.
 - [pinnacle](https://github.com/pinnacle-comp/pinnacle) - An AwesomeWM compositor clone.
+- [Jay](https://github.com/mahkoh/jay) - Compositor configured in Rust with hot-reload support.
 
 ### Stacking
 
